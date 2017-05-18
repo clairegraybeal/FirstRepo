@@ -13,7 +13,7 @@
 __bold__
 -italics_
 
-[I'm an inline style link] https://twitter.com/cgrayy
+[I'm an inline style link] (https://twitter.com/cgrayy)
 
 ```
 x = a
